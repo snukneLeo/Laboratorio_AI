@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+	Environment:  Cliff-v0
+----------------------------------------------------------------
+
+o  o  o  o  o  o  o  o  o  o  o  o
+o  o  o  o  o  o  o  o  o  o  o  o
+o  o  o  o  o  o  o  o  o  o  o  o
+x  C  C  C  C  C  C  C  C  C  C  T
+
+
+Execution time: 0.5896s
+Policy:
+[['R' 'U' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'U' 'D']
+ ['R' 'R' 'R' 'D' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'D']
+ ['R' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'R' 'D']
+ ['U' 'U' 'U' 'U' 'U' 'U' 'U' 'U' 'U' 'U' 'U' 'U']]
